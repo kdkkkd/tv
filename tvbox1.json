@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "7b1d09368af7a13806e1a8e1e43850e5",
-      "name": "feifan",
+      "name": "nc",
       "type": 1,
       "api": "https://ys.kid.x10.bz/api.php/provide/vod/",
       "playUrl": "/",
