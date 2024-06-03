@@ -5,7 +5,7 @@
       "name": "nc",
       "type": 1,
       "api": "https://ys.kid.x10.bz/api.php/provide/vod/",
-      "playUrl": "/",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -799,8 +799,8 @@
   "parses": [
     {
       "name": "解析1",
-      "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "type": 1,
+      "url": "https://cache.json.icu/s1804857380.php?jx="
     }
   ],
   "ijk": [
