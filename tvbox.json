@@ -4,8 +4,8 @@
       "key": "7b1d09368af7a13806e1a8e1e43850e5",
       "name": "feifan",
       "type": 1,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
-      "playUrl": "https://ys.kid.x10.bz/",
+      "api": "https://ys.kid.x10.bz/api.php/provide/vod/",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -34,7 +34,7 @@
   "parses": [
     {
       "name": "解析1",
-      "type": 0,
+      "type": 1,
       "url": "https://cache.json.icu/s1804857380.php?jx="
     }
   ],
